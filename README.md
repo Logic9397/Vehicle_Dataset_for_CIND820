@@ -16,6 +16,9 @@ Aaron Hosein CIND820 Project.ipynb\
 AaronHosein_CIND820_Literature_Review.pdf\
 *PDF of academic resources and literature review*\
 \
+AaronHosein_CIND820_Final_Report.pdf\
+*PDF of final report and findings*\
+\
 vehicle_dataset ML Model Comparison - Jupyter Notebook.pdf\
 *PDF of Jupyter notebook Python file comparing machine learning models*\
 \
